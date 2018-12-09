@@ -1,0 +1,20 @@
+{
+  "name": "mingru-tsconfig",
+  "version": "1.0.0",
+  "description": "A preset tsconfig.json for mingru projects",
+  "author": "Mgen (https://www.mgenware.com)",
+  "homepage": "https://github.com/mgenware/mingru-tsconfig",
+  "bugs": "https://github.com/mgenware/mingru-tsconfig/issues",
+  "keywords": [
+    "mingru"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgenware/mingru-tsconfig.git"
+  },
+  "license": "MIT",
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all"
+  }
+}
