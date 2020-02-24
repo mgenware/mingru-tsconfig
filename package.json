@@ -15,6 +15,7 @@
   "license": "MIT",
   "prettier": {
     "singleQuote": true,
-    "trailingComma": "all"
+    "trailingComma": "all",
+    "endOfLine": "lf"
   }
 }
