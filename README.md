@@ -1,8 +1,11 @@
 # mingru-tsconfig
-A preset tsconfig.json for mingru projects
+
+A preset tsconfig.json for mingru projects.
 
 ## Usage
+
 Install mingru-tsconfig to your project:
+
 ```sh
 # yarn
 yarn add mingru-tsconfig
@@ -10,7 +13,8 @@ yarn add mingru-tsconfig
 npm install mingru-tsconfig --save
 ```
 
-Extends mingru-tsconfig in your own `tsconfig.json`:
+Extends mingru-tsconfig in your local `tsconfig.json`:
+
 ```json
 {
   "extends": "mingru-tsconfig"
