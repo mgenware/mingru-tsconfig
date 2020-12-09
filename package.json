@@ -1,6 +1,6 @@
 {
   "name": "mingru-tsconfig",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "description": "A preset tsconfig.json for mingru projects",
   "author": "Mgen (https://www.mgenware.com)",
   "homepage": "https://github.com/mgenware/mingru-tsconfig",
